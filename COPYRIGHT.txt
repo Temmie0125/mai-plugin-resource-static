@@ -1,0 +1,22 @@
+mai-plugin 静态资源包声明（与素材同分发）
+=============================================
+
+1. 本资源包随 mai-plugin 分发/由用户自行下载，包含：
+   - 官方 UI 切图（mai/pic/）、历代版本牌子与称号切图（mai/plate*、mai/shougou/）
+   - 全曲曲绘（mai/cover/，来源于世嘉官方及网络整理）
+   - 字体文件（font/，仅限个人学习研究使用，禁止商用）
+   - ECharts（echarts.min.js，Apache-2.0 License）
+   - 旧版曲库缓存 JSON（data/，可选）
+
+2. 美术衍生声明：
+   mai-plugin 渲染输出的卡面布局、切图组合与配色方案，派生自
+   nonebot-plugin-maimaidx（作者 Yuri-YuzuChaN，
+   https://github.com/Yuri-YuzuChaN/nonebot-plugin-maimaidx）
+   及上游 mai-bot 项目的美术设计，仅作信息级还原复用，
+   相关权利归原作者所有，感谢其开源贡献。
+
+3. 素材版权：
+   舞萌DX（maimai DX）及相关素材版权归 SEGA / SOUND HOLIC 等原权利方所有。
+   本插件为社区非营利项目，请于 24 小时内自行删除，或支持正版。
+
+4. 商用字体请自行取得授权；本包字体仅供个人学习研究。
